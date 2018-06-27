@@ -1,0 +1,19 @@
+{
+  "name": "serviceworker",
+  "version": "1.0.0",
+  "description": "Service worker example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sathish G.",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SathishGajendran/serviceworkerexample.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SathishGajendran/serviceworkerexample/issues"
+  },
+  "homepage": "https://github.com/SathishGajendran/serviceworkerexample#readme"
+}
